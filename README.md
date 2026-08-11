@@ -125,3 +125,4 @@ Durante el desarrollo se utilizaron herramientas de IA para depuración, resoluc
 
 Es posible encontrar fragmentos de código o comentarios generados con asistencia de IA.
 
+good.
