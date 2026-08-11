@@ -1,0 +1,8 @@
+config/key.env
+service/
+test/
+view/config.rb
+view/view.rb
+list.txt
+yt-dlp.exe
+yt-dlp.exe.old
